@@ -130,3 +130,12 @@ Common issues and solutions:
 
 - Built with Folium for interactive maps
 - Leverages pandas for data processing
+#📚 Documentation & Reporting
+In addition to the interactive maps and Excel files, the system generates comprehensive PDF booklets containing:
+
+🔒 Sensitive Route Analysis: Detailed analysis of route vulnerabilities and high-risk areas
+📊 Statistical Breakdowns: Risk percentages and hazard distributions along routes
+🛣️ Segment-by-Segment Assessment: Individual analysis of each route portion
+🚨 Emergency Response Recommendations: Suggested actions for identified hazards
+
+⚠️ Important Note: Due to the sensitive nature of the safety information contained in these booklets, actual PDF examples cannot be shared in this repository. The generated PDFs may contain proprietary risk assessment methodologies and location-specific vulnerability data that should be handled according to your organization's security protocols.
